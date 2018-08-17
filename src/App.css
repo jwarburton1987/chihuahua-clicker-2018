@@ -26,3 +26,14 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+body {
+  background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/Wonderful-Black-And-White-Wallpaper.jpg")
+}
+.main {
+text-align: center;
+}
+
+.imagesCars{  height: 200px;
+width: 100%;}
+
